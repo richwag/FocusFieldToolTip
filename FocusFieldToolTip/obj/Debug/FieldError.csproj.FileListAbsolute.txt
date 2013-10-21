@@ -1,0 +1,4 @@
+c:\Users\Rich\Documents\Visual Studio 2010\Projects\FieldError\FieldError\bin\FieldError.dll
+c:\Users\Rich\Documents\Visual Studio 2010\Projects\FieldError\FieldError\bin\FieldError.pdb
+c:\Users\Rich\Documents\Visual Studio 2010\Projects\FieldError\FieldError\obj\Debug\FieldError.dll
+c:\Users\Rich\Documents\Visual Studio 2010\Projects\FieldError\FieldError\obj\Debug\FieldError.pdb
